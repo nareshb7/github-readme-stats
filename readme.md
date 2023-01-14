@@ -149,6 +149,10 @@ Use `&theme=THEME_NAME` parameter like so :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ```
 
+<!-- https://github-readme-stats.vercel.app/api/top-langs?username=nareshb7&show_icons=true&locale=en&layout=compact -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&show_icons=true&locale=en&layout=compact" alt="nareshb7" /></p>
+
 #### All inbuilt themes
 
 GitHub readme stats comes with several built-in themes (e.g. `dark`, `radical`, `merko`, `gruvbox`, `tokyonight`, `onedark`, `cobalt`, `synthwave`, `highcontrast`, `dracula`).
